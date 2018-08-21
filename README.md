@@ -1,5 +1,7 @@
 # Numark PartyMix MIDI controller mappings for Mixxx
 
+![Image of NuMark PartyMix MIDI Controller](http://rylito.com/media_rylito/content/images/original/numark_party_mix.jpg)
+
 Note: this README is adapted from the [original announcement of this mapping on the Mixxx Community Forums](https://www.mixxx.org/forums/viewtopic.php?f=7&t=9232&start=10#p38408)
 
 # Installation
